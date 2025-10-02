@@ -5,10 +5,12 @@
   <title>My Retro Site</title>
   <style>
     body {
+      background-color: gray;
+      color: white;
+      font-family: sans-serif;
       max-width: 700px;
       margin: auto;
-      font-family: serif;
-      line-height: 1.6;
+      padding: 2em;
     }
   </style>
 </head>
@@ -16,5 +18,14 @@
   <h1>Welcome to My Website</h1>
   <p>This site is simple, fast, and beautiful — just text, no distractions.</p>
   <p>Built by hand in pure HTML and CSS.</p>
+  
+  async function loadEvents() {
+  const res = await fetch('events.json?v=' + Date.now());
+  const events = await res.json();
+  // Do something with the events...
+}
+
+loadEvents();
+
 </body>
 </html>
