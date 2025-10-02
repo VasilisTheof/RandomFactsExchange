@@ -19,13 +19,16 @@
   <p>This site is simple, fast, and beautiful — just text, no distractions.</p>
   <p>Built by hand in pure HTML and CSS.</p>
   
-  async function loadEvents() {
-  const res = await fetch('events.json?v=' + Date.now());
-  const events = await res.json();
-  // Do something with the events...
-}
+  <!-- JavaScript must go inside a <script> tag -->
+  <script>
+    async function loadEvents() {
+      const res = await fetch('events.json?v=' + Date.now());
+      const events = await res.json();
+      console.log(events); // for now, just log the data
+    }
 
-loadEvents();
+    loadEvents();
+  </script>
 
 </body>
 </html>
