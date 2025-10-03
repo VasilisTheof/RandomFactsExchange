@@ -1,0 +1,72 @@
+{
+  "future": [
+    {
+      "title": "Random Facts Exchange 12",
+      "date": "Friday, 10th of October",
+      "time": "19:00–21:00",
+      "location": "L200",
+      "link": "https://eventfrog.ch/en/p/science-and-technology/random-facts-exchange-12th-edition-7350114861878139949.html"
+    },
+    {
+      "title": "Random Facts Exchange 13",
+      "date": "Wednesday, 26th of November",
+      "time": "19:00–21:00",
+      "location": "L200",
+      "link": "https://eventfrog.ch/en/p/science-and-technology/random-facts-exchange-13th-edition-7350116006725949328.html"
+    }
+  ],
+  "past": [
+    {
+      "title": "Random Facts Exchange 11",
+      "date": "16th of May 2025"
+    },
+    {
+      "title": "Random Facts Exchange 10",
+      "date": "24th of April 2025"
+    },
+    {
+      "title": "Random Facts Exchange 9 Museum Edition",
+      "date": "27th of February 2025"
+    },
+    {
+      "title": "Random Facts Exchange 8 Museum Edition",
+      "date": "16th of January 2025"
+    },
+    {
+      "title": "Random Facts Exchange 7",
+      "date": "aaa"
+    },
+    {
+      "title": "Random Facts Exchange 6",
+      "date": "28th of September 2024"
+    },
+    {
+      "title": "Random Facts Exchange 5",
+      "date": "15th of June 2024"
+    },
+    {
+      "title": "Random Facts Exchange 4",
+      "date": "5th of April 2024"
+    },
+    {
+      "title": "Random Facts Exchange 3",
+      "date": "2nd of February 2024",
+      "talks": [
+        "Punny comedy – Kostas Wordman, Insta @Kostas_Wordman, FB: Kostas Wordman",
+        "How long can you survive in space without a suit – Robert Illés, Performances in DE&EN: https://robertstagework.com/",
+        "A microscopic journey – Yuksel Temiz, The fantastic microscope: https://www.microqubic.com/",
+        "Skeuomorphism – Janine Lee, Food art & workshops: Insta @pekopeko.ch"
+      ]
+    },
+    {
+      "title": "Random Facts Exchange 1",
+      "date": "30th of October 2023",
+      "talks": [
+        "Bitcoin, crypto (and some scams) – Ben Ruijl",
+        "Light pillars – Žiga Nosan",
+        "How hot is a swan – Vasilis Theofylaktopoulos",
+        "A day in the life of a theoretical physicist – Valentin Hirschi"
+      ]
+    }
+  ]
+}
