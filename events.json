@@ -17,39 +17,98 @@
   ],
   "past": [
     {
-      "title": "Random Facts Exchange 11",
-      "date": "16th of May 2025"
+      "title": "Random Facts Exchange 11 Guest Edition",
+      "date": "6th of August 2025",
+      "talks": [
+        "Hosted by Curran Eggertson",
+        "How to lose money part 2:ding ding – Ben Ruijl",
+        "Autism: A user's guide - Ludovica Boggiani",
+        "Rollercoaster enthusiast - Markus Seppälä",
+        "Hyenas! - Erich Glück"
+      ]
     },
     {
       "title": "Random Facts Exchange 10",
-      "date": "24th of April 2025"
+      "date": "16th of May 2025",
+      "talks": [
+        "My favourite Pseudo-equality:a metrological whoopsie - Curran Eggertson",
+        "Protection – Mati",
+        "Egg freezing tourism - Rebecca",
+        "Héctor vs the AFM - Héctor Corte-León"
+      ]
     },
     {
       "title": "Random Facts Exchange 9 Museum Edition",
-      "date": "27th of February 2025"
+      "date": "24th of April 2025",
+      "talks": [
+        "Extinction theories – Timur Sivgin, https://www.manospondylus.com/",
+        "A history of Bizarre Mathematicians – Niklas Gassner"   
+      ]
+    
     },
     {
       "title": "Random Facts Exchange 8 Museum Edition",
-      "date": "16th of January 2025"
+      "date": "27th of February 2025",
+      "talks": [
+        "Tall tortoise tales – Dennis Hansen",
+        "Magic or why people are so damn stupid – Christian Link"
+      ]
     },
     {
       "title": "Random Facts Exchange 7",
-      "date": "aaa"
+      "date": "16th of January 2025",
+      "talks": [
+        "Cheetah – Emir Tonbul",
+        "Safety gloves – Laura Dorman, @lauradorman_comedy",
+        "A tale of old fossils - Dennis Hansen"
+      ]
     },
     {
-      "title": "Random Facts Exchange 6",
-      "date": "28th of September 2024"
+      "title": "Random Facts Exchange 6 Museum Edition",
+      "date": "7th of November 2024",
+      "talks": [
+        "How to become a fossil – Ben Ruijl",
+        "How do fish see in the sea – Vasilis Theofylaktopoulos"
+      ],
+      "references": [
+        "References",
+        "Great book to learn about how fish work! Biology of Fishes, 3rd Edition, By Quentin Bone, Richard Moore",
+        "But how do other animals see? Comparative eye physiology/anatomy/everything Animal Eyes, 2nd Edition, Michael F. Land and Dan-Eric Nilsson"
+      ]
     },
     {
       "title": "Random Facts Exchange 5",
-      "date": "15th of June 2024"
+      "date": "28th of September 2024",
+      "talks": [
+        "Colour perception – Curran Eggertson, Check out his YouTube channel Chromaphobe",
+        "Ice cream truck optimisation- Julia",
+        "Radioactivity – Niclas Granqvist",
+        "Artificial Intelligence – Valentin Hirschi"
+      ]
     },
     {
       "title": "Random Facts Exchange 4",
-      "date": "5th of April 2024"
+      "date": "15th of June 2024",
+      "talks": [
+        "Fusion – Kunal Soni",
+        "Plastic bottles – Vasilis Theofylaktopoulos",
+        "Vasovagal Syncope – Jackson Frey",
+        "Science meets comedy – Kostas Wordman,Insta @Kostas_Wordman, FB: Kostas Wordman"
+      ]
     },
     {
       "title": "Random Facts Exchange 3",
+      "date": "5th of April 2024",
+      "talks": [
+        "Switzerland a land of paradoxes – Paolo Ghisleni",
+        "A story across religions – Sofia Bourabaa",
+        "Splitting hair – Vasilis Theofylaktopoulos",
+        "Revisiting linguistic relativity – Helen Hess"
+      ]
+    },
+    {
+      "title": "Random Facts Exchange 2",
+      
       "date": "2nd of February 2024",
       "talks": [
         "Punny comedy – Kostas Wordman, Insta @Kostas_Wordman, FB: Kostas Wordman",
