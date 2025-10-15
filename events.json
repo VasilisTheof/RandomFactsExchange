@@ -1,27 +1,36 @@
 {
   "future": [
     {
-      "title": "Random Facts Exchange 12",
-      "date": "Friday, 10th of October",
-      "time": "19:00–21:00",
-      "location": "L200",
-      "link": "https://eventfrog.ch/en/p/science-and-technology/random-facts-exchange-12th-edition-7350114861878139949.html"
+      "title": "Random Facts Exchange meets Milquetoast (13)",
+      "date": "Thursday, 30th of October",
+      "time": "19:30-22:00",
+      "location": "Theater Ida, Aargauerstrasse 80, Zürich",
+      "link": "https://eventfrog.ch/de/p/theater-buehne/comedy-kabarett/random-facts-exchange-meets-milquetoast-7381951302941563425.html"
     },
     {
-      "title": "Random Facts Exchange 13",
+      "title": "Random Facts Exchange 14",
       "date": "Wednesday, 26th of November",
-      "time": "19:00–21:00",
+      "time": "19:00-21:00",
       "location": "L200",
       "link": "https://eventfrog.ch/en/p/science-and-technology/random-facts-exchange-13th-edition-7350116006725949328.html"
     }
   ],
   "past": [
+        {
+      "title": "Random Facts Exchange 12",
+      "date": "Friday, 10th of October",
+      "talks": [
+        "Periods - Rebecca",
+        "Visible concrete​ in Zurich's​ urban architecture - Kostas​",
+        "Milk products: a hurried glance - Jackson Frey"
+      ]
+    },
     {
       "title": "Random Facts Exchange 11 Guest Edition",
       "date": "6th of August 2025",
       "talks": [
         "Hosted by Curran Eggertson",
-        "How to lose money part 2:ding ding – Ben Ruijl",
+        "How to lose money part 2:ding ding - Ben Ruijl",
         "Autism: A user's guide - Ludovica Boggiani",
         "Rollercoaster enthusiast - Markus Seppälä",
         "Hyenas! - Erich Glück"
@@ -32,7 +41,7 @@
       "date": "16th of May 2025",
       "talks": [
         "My favourite Pseudo-equality:a metrological whoopsie - Curran Eggertson",
-        "Protection – Mati",
+        "Protection - Mati",
         "Egg freezing tourism - Rebecca",
         "Héctor vs the AFM - Héctor Corte-León"
       ]
@@ -41,8 +50,8 @@
       "title": "Random Facts Exchange 9 Museum Edition",
       "date": "24th of April 2025",
       "talks": [
-        "Extinction theories – Timur Sivgin, https://www.manospondylus.com/",
-        "A history of Bizarre Mathematicians – Niklas Gassner"   
+        "Extinction theories - Timur Sivgin, https://www.manospondylus.com/",
+        "A history of Bizarre Mathematicians - Niklas Gassner"   
       ]
     
     },
@@ -50,16 +59,16 @@
       "title": "Random Facts Exchange 8 Museum Edition",
       "date": "27th of February 2025",
       "talks": [
-        "Tall tortoise tales – Dennis Hansen",
-        "Magic or why people are so damn stupid – Christian Link"
+        "Tall tortoise tales - Dennis Hansen",
+        "Magic or why people are so damn stupid - Christian Link"
       ]
     },
     {
       "title": "Random Facts Exchange 7",
       "date": "16th of January 2025",
       "talks": [
-        "Cheetah – Emir Tonbul",
-        "Safety gloves – Laura Dorman, @lauradorman_comedy",
+        "Cheetah - Emir Tonbul",
+        "Safety gloves - Laura Dorman, @lauradorman_comedy",
         "A tale of old fossils - Dennis Hansen"
       ]
     },
@@ -67,8 +76,8 @@
       "title": "Random Facts Exchange 6 Museum Edition",
       "date": "7th of November 2024",
       "talks": [
-        "How to become a fossil – Ben Ruijl",
-        "How do fish see in the sea – Vasilis Theofylaktopoulos"
+        "How to become a fossil - Ben Ruijl",
+        "How do fish see in the sea - Vasilis Theofylaktopoulos"
       ],
       "references": [
         "References",
@@ -80,30 +89,30 @@
       "title": "Random Facts Exchange 5",
       "date": "28th of September 2024",
       "talks": [
-        "Colour perception – Curran Eggertson, Check out his YouTube channel Chromaphobe",
+        "Colour perception - Curran Eggertson, Check out his YouTube channel Chromaphobe",
         "Ice cream truck optimisation- Julia",
-        "Radioactivity – Niclas Granqvist",
-        "Artificial Intelligence – Valentin Hirschi"
+        "Radioactivity - Niclas Granqvist",
+        "Artificial Intelligence - Valentin Hirschi"
       ]
     },
     {
       "title": "Random Facts Exchange 4",
       "date": "15th of June 2024",
       "talks": [
-        "Fusion – Kunal Soni",
-        "Plastic bottles – Vasilis Theofylaktopoulos",
-        "Vasovagal Syncope – Jackson Frey",
-        "Science meets comedy – Kostas Wordman,Insta @Kostas_Wordman, FB: Kostas Wordman"
+        "Fusion - Kunal Soni",
+        "Plastic bottles - Vasilis Theofylaktopoulos",
+        "Vasovagal Syncope - Jackson Frey",
+        "Science meets comedy - Kostas Wordman,Insta @Kostas_Wordman, FB: Kostas Wordman"
       ]
     },
     {
       "title": "Random Facts Exchange 3",
       "date": "5th of April 2024",
       "talks": [
-        "Switzerland a land of paradoxes – Paolo Ghisleni",
-        "A story across religions – Sofia Bourabaa",
-        "Splitting hair – Vasilis Theofylaktopoulos",
-        "Revisiting linguistic relativity – Helen Hess"
+        "Switzerland a land of paradoxes - Paolo Ghisleni",
+        "A story across religions - Sofia Bourabaa",
+        "Splitting hair - Vasilis Theofylaktopoulos",
+        "Revisiting linguistic relativity - Helen Hess"
       ]
     },
     {
@@ -111,20 +120,20 @@
       
       "date": "2nd of February 2024",
       "talks": [
-        "Punny comedy – Kostas Wordman, Insta @Kostas_Wordman, FB: Kostas Wordman",
-        "How long can you survive in space without a suit – Robert Illés, Performances in DE&EN: https://robertstagework.com/",
-        "A microscopic journey – Yuksel Temiz, The fantastic microscope: https://www.microqubic.com/",
-        "Skeuomorphism – Janine Lee, Food art & workshops: Insta @pekopeko.ch"
+        "Punny comedy - Kostas Wordman, Insta @Kostas_Wordman, FB: Kostas Wordman",
+        "How long can you survive in space without a suit - Robert Illés, Performances in DE&EN: https://robertstagework.com/",
+        "A microscopic journey - Yuksel Temiz, The fantastic microscope: https://www.microqubic.com/",
+        "Skeuomorphism - Janine Lee, Food art & workshops: Insta @pekopeko.ch"
       ]
     },
     {
       "title": "Random Facts Exchange 1",
       "date": "30th of October 2023",
       "talks": [
-        "Bitcoin, crypto (and some scams) – Ben Ruijl",
-        "Light pillars – Žiga Nosan",
-        "How hot is a swan – Vasilis Theofylaktopoulos",
-        "A day in the life of a theoretical physicist – Valentin Hirschi"
+        "Bitcoin, crypto (and some scams) - Ben Ruijl",
+        "Light pillars - Žiga Nosan",
+        "How hot is a swan - Vasilis Theofylaktopoulos",
+        "A day in the life of a theoretical physicist - Valentin Hirschi"
       ]
     }
   ]
