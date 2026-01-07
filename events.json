@@ -1,22 +1,35 @@
 {
   "future": [
     {
-      "title": "Random Facts Exchange meets Milquetoast (13)",
-      "date": "Thursday, 30th of October",
-      "time": "19:30-22:00",
-      "location": "Theater Ida, Aargauerstrasse 80, Zürich",
-      "link": "https://eventfrog.ch/de/p/theater-buehne/comedy-kabarett/random-facts-exchange-meets-milquetoast-7381951302941563425.html"
-    },
-    {
-      "title": "Random Facts Exchange 14",
-      "date": "Wednesday, 26th of November",
+      "title": "Random Facts Exchange 15",
+      "date": "Monday, 2nd of February",
       "time": "19:00-21:00",
-      "location": "L200",
-      "link": "https://eventfrog.ch/en/p/science-and-technology/random-facts-exchange-13th-edition-7350116006725949328.html"
+      "location": "Amboss Rampe, Zollstrasse 80, 8005 Zürich",
+      "link": "https://eventfrog.ch/en/p/science-and-technology/random-facts-exchange-15th-edition-amboss-rampe-7414595192928390689.html"
     }
   ],
   "past": [
         {
+      "title": "Random Facts Exchange 14",
+      "date": "Wednesday, 26th of November",
+      "talks": [
+        "Damn it's a dam - Janine",
+        "How to be somewhere over the rainbow - Lennart",
+        "Old dog doesn't learn new tricks - Mike",
+        "Kezboards - Curran"
+      ]
+    },
+    {
+      "title": "Random Facts Exchange 13 meets Milquetoast",
+      "date": "Thursday, 30th of October",
+      "talks": [
+        "How to use whales",
+        "What is Milquetoast?",
+        "Eirini the first Emperor of the Byzantine Empire",
+        "Talks by Vasilis - Improv by Milquetoast"
+      ]
+    },
+    {
       "title": "Random Facts Exchange 12",
       "date": "Friday, 10th of October",
       "talks": [
