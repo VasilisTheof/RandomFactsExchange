@@ -1,15 +1,16 @@
 {
-  "future": [
+  "past": [
     {
       "title": "Random Facts Exchange 15",
       "date": "Monday, 2nd of February",
-      "time": "19:00-21:00",
-      "location": "Amboss Rampe, Zollstrasse 80, 8005 Zürich",
-      "link": "https://eventfrog.ch/en/p/science-and-technology/random-facts-exchange-15th-edition-amboss-rampe-7414595192928390689.html"
-    }
-  ],
-  "past": [
-        {
+      "talks": [
+        "Cryptography - Anna, https://www.milquetoast.ch/",
+        "Scales and balances - Salvatore Bruno",
+        "Drugs: We don't make mistakes just happy little accidents - Joanna Helbig",
+        "Of Mars and Men - Timur Sivgin, hardeshur.blogspot.com"
+      ]
+    },
+    {
       "title": "Random Facts Exchange 14",
       "date": "Wednesday, 26th of November",
       "talks": [

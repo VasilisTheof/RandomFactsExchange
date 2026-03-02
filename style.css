@@ -27,6 +27,12 @@ h4 {
 p {
   color: white;
 }
+
+/* ensure list items match overall text color */
+ul,
+li {
+  color: white;
+}
 a {
   color: #fced8c;
 }
